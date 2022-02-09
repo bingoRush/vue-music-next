@@ -2,6 +2,7 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
+    <div>第二次更改111111111</div>
   </div>
   <router-view/>
 </template>
